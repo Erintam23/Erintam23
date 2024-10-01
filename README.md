@@ -23,5 +23,7 @@ My <strong>favorite color combination</strong> consists of purple, yellow, pink,
 
 💬 Ask me anything and I am happy to help. 
 <ul>
-  Especially with Arts, crafts and printmaking
+  <li>
+    Especially with Arts, crafts and printmaking
+  </li>
 </ul>
