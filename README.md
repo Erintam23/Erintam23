@@ -15,7 +15,7 @@ My name is Erin Tam, and I am currently a student at SAIT, studying Interactive 
 🔖 Fun fact about me
 <ul>
   <li>
-My <strong>favorite color combination</strong> consists of purple, yellow, pink, and blue. They often appear on my artwork! These colors frequently appear in my creative projects, as they resonate deeply with my artistic vision. 💜💗💛💙
+My <strong>favorite color combination</strong> consists of purple, yellow, pink, and blue. They often appear on my artwork! These colors frequently appear in my creative projects, as they resonate deeply with my artistic vision.💜💗💛💙
   </li>
 </ul>
 
@@ -23,3 +23,5 @@ My <strong>favorite color combination</strong> consists of purple, yellow, pink,
 <ul>
   Especially with Arts, crafts and printmaking
 </ul>
+
+🤟 Passionate about connecting with others who share a deep interest and enthusiasm for design and art. 
