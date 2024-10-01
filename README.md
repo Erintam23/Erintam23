@@ -5,7 +5,7 @@ My name is Erin Tam, and I am currently a student at SAIT, studying Interactive 
 📫 How to reach me
 <ul>
   <li>
-    👔 Linkin
+    👔 [Linkin](https://www.linkedin.com/in/erintam23/)
   </li>
   <li>
     🔍 Instagram
@@ -19,7 +19,18 @@ My <strong>favorite color combination</strong> consists of purple, yellow, pink,
   </li>
 </ul>
 
-🤟 Passionate about connecting with others who share a deep interest and enthusiasm for design and art. 
+🤟 Passionate about 
+<ul> 
+  <li>
+    Connecting with others who share a deep interest and enthusiasm for design and art. 
+  </li>
+  <li>
+    Love learning new knowledge and skills
+  </li>
+  <li>
+    Love exploring art and design with different methods
+  </li>
+</ul>
 
 💬 Ask me anything and I am happy to help. 
 <ul>
