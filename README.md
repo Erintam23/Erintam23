@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello, world! 👋
 
-<!--
-**Erintam23/Erintam23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Erin Tam, and I am currently a student at SAIT, studying Interactive Design with a major in Graphic Design. I am a beginner in JavaScript and GitHub, with a goal of learning to write clean and precise code. I hold a Bachelor of Fine Arts degree from the University of Calgary. As a multidisciplinary artist 🎨, I strive to create worlds that transcend the one we live in. I love working with mixed mediums and love using art to tell stories to transport the audience from the logical and familiar into a more surreal space. By blending my expertise in art and coding, I aspire to produce work that truly stands out ⚡. 
 
-Here are some ideas to get you started:
+📫 How to reach me
+<ul>
+  <li>
+    👔 Linkin
+  </li>
+  <li>
+    🔍 Instagram
+  </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔖 Fun fact about me
+<ul>
+  <li>
+My <strong>favorite color combination</strong> consists of purple, yellow, pink, and blue. They often appear on my artwork! These colors frequently appear in my creative projects, as they resonate deeply with my artistic vision. 💜💗💛💙
+  </li>
+</ul>
