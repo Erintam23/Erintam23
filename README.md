@@ -40,3 +40,4 @@ My <strong>favorite color combination</strong> consists of purple, yellow, pink,
     Reachout to me for any project ideas and I would love to collaborate. 
   </li>
 </ul>
+
