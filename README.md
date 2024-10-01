@@ -1,6 +1,8 @@
 ## Hello, world! 👋
 
-My name is Erin Tam, and I am currently a student at SAIT, studying Interactive Design with a major in Graphic Design. I am a beginner in JavaScript and GitHub, with a goal of learning to write clean and precise code. I hold a Bachelor of Fine Arts degree from the University of Calgary. As a multidisciplinary artist 🎨, I strive to create worlds that transcend the one we live in. I love working with mixed mediums and using art to tell stories to transport the audience from the logical and familiar into a more surreal. By blending my expertise in art and coding, I aspire to produce work that truly stands out ⚡. 
+My name is Erin Tam, and I am currently a student at SAIT, studying Interactive Design with a major in Graphic Design. For a long time I have wanted to start programming, with a goal of learning to write clean and precise code.
+
+🎓 I have a Bachelor degree on Fine Arts Visual Studies from the University of Calgary, specializing in creating immersive worlds through mixed mediums. I strive to transport audiences from the familiar into the surreal. By blending my artistic expertise with coding, I aim to produce innovative, standout work that combines creativity and technology.
 
 📫 How to reach me
 <ul>
@@ -28,13 +30,13 @@ My <strong>favorite color combination</strong> consists of purple, yellow, pink,
     Love learning new knowledge and skills.
   </li>
   <li>
-    Love exploring art and design with different methods.
+    Exploring game development language and design pattern in depth.
   </li>
 </ul>
 
 💬 Ask me anything and I am happy to help. 
 <ul>
   <li>
-    Especially with Arts, crafts and printmaking
+    Reachout to me for any project ideas and I would love to collaborate. 
   </li>
 </ul>
