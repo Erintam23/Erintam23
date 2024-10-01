@@ -5,10 +5,10 @@ My name is Erin Tam, and I am currently a student at SAIT, studying Interactive 
 📫 How to reach me
 <ul>
   <li>
-    👔 [Linkin](https://www.linkedin.com/in/erintam23/)
+   👔 <a href="https://www.linkedin.com/in/erintam23/">LinkedIn</a> 
   </li>
   <li>
-    🔍 Instagram
+   🔍 <a href="https://www.instagram.com/mycolour_palette23/">Instagram</a>
   </li>
 </ul>
 
