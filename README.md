@@ -19,9 +19,9 @@ My <strong>favorite color combination</strong> consists of purple, yellow, pink,
   </li>
 </ul>
 
+🤟 Passionate about connecting with others who share a deep interest and enthusiasm for design and art. 
+
 💬 Ask me anything and I am happy to help. 
 <ul>
   Especially with Arts, crafts and printmaking
 </ul>
-
-🤟 Passionate about connecting with others who share a deep interest and enthusiasm for design and art. 
